@@ -1,6 +1,24 @@
 var flashcards = 
-    {
-        "Test 7":
+    {"Quiz 11":
+     [{"question": "What does the President's cabinet do?",
+       "answer": "Advises the president"},
+      {"question": "What are two Cabinet level positions?",
+       "answer": "Secretaries of: Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Labor, State, Transportation, Treasury, Veteran's Affairs, Attorney General, Vice President"},
+      {"question": "What is the name of the President's official home?",
+       "answer": "The White House"},
+      {"question": "What does the Judicial branch do?",
+       "answer": "reviews laws, resolves disagreements, explains laws, decides if laws go againts the constitution"},
+      {"question": "What is the highest court in the United States?",
+       "answer": "The supreme court"},
+      {"question": "How many justices are on the Supreme Court?",
+       "answer": "9"},
+      {"question": "Who nominates judges for the Supreme Court?",
+       "answer": "The President"},
+      {"question": "Name the highest part of Judiciary Branch of Government.",
+       "answer": "The Supreme Court"},
+      {"question": "Where is the White House located?",
+       "answer": "Washington D.C."}],
+      "Test 7":
         [{"question": "What is the legislative branch of our Government?",
           "answer": "Congress"},
          {"question": "We elect a US Representative for how many years?",
