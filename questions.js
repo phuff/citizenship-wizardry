@@ -1,5 +1,105 @@
 var flashcards = 
-    {"Quiz 11":
+    {"Quiz 13": 
+     [{"question:": "Who is the chief justice of the United States?",
+       "answer": "John Roberts"},
+      {
+          "question": "Under our constitution some powers belong to the states.  What is one power of the states?",
+          "answer": "provide schooling and education, provide protection (police), provide safety (fire dept.), give a drivers license, approve zoning and land use"},
+      {"question": "What is the head executive of a city government called?",
+       "answer": "Mayor"
+      },
+      {
+          "question": "What is the head executive of a state government called?",
+          "answer": "Governor"
+      },
+      {
+          "question": "Who is the governor of your state now?",
+          "answer": "Gary Herbert"          
+      },
+      {
+          "question": "What is the capital of your state?",
+          "answer": "Salt Lake City"
+      },
+      {
+          "question": "What are the two major political parties in the United States?",
+          "answer": "Democratic and Republican"
+      },
+      {
+          "question": "What is the political party of the president now?",
+          "answer": "Republican"
+      },
+      {
+          "question": "What is the name of the Speaker of the House of Representatives now?",
+          "answer": "John Boehner"
+      }],
+       "Test 8":
+     [{"question": "What are some of the requirements to be eligible to become president?Quiz 11",
+       "answer": "Must be at least 35 years old, must be born in the U.S., must have lived in the U.S. for at least 14 years."},
+      {
+          "question": "How many justices are on the supreme court?",
+          "answer": "9"
+      },
+      {
+          "question": "Name the highet part of the judiciary branch of the government",
+          "answer": "The supreme court"
+      },
+      {
+          "question": "What is the name of the president's official home?",
+          "answer": "The White House"
+      },
+      {
+          "question": "In what month do we vote for president?",
+          "answer": "November"
+      },
+      {
+          "question": "What is the highest court in the United States?",
+          "answer": "The Supreme Court"
+      },
+      {
+          "question": "In what month is the new president inaugurated?",
+          "answer": "January"
+      },
+      {
+          "question": "What does the president's cabinet do?",
+          "answer": "Advises the president"
+      },
+      {
+          "question": "What is the name of the President of the United States now?",
+          "answer": "Donald Trump"
+      },
+      {
+          "question": "What is the name of the vice president of the United States now?",
+          "answer": "Mike Pence"
+      },
+      {
+          "question": "Who nominates judges for the Supreme Court?",
+          "answer": "The President"
+      },
+      {
+          "question": "If the president can no longer serve who becomes president?",
+          "answer": "The vice president"
+      },
+      {
+          "question": "What are two cabinet level positions?",
+          "answer": "Secretaries of: Agriculture, Commerce, Defense, Education, Energy, Health and Human Services, Homeland Security, Housing and Urban Development, Interior, Labor, State, Transportation, Treasury, Veteran's Affairs, Attorney General, Vice President"
+      },
+      {
+          "question": "If the President and vice President can no longer serve who becomes president?",
+          "answer": "The speaker of the house"
+      },
+      {
+          "question": "What does the judicial branch do?",
+          "answer": "reviews laws, resolves disagreements, explains laws, decides if laws go against the constitution"
+      },
+      {
+          "question": "Where is the White House located?",
+          "answer": "Washington D.C."
+      },
+      {
+          "question": "Who is the commander in chief of the military?",
+          "answer": "The president"
+      }],
+     "Quiz 11":
      [{"question": "What does the President's cabinet do?",
        "answer": "Advises the president"},
       {"question": "What are two Cabinet level positions?",
