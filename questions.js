@@ -1,5 +1,23 @@
 var flashcards = 
-    {"Quiz 13": 
+    {
+        "Quiz 14":
+        [{"question": "There are 4 amendments to the Constitution about who can vote.  Name one of them.",
+         "answer": "Citizens 18 and older can vote.\nAny citizen (male or female) can vote.\nYou don't have to pay to vote.\nA citizen of any race may vote."},
+        {"question": "Name the amendments that address voting rights",
+        "answer": "15, 19 and 24"},
+        {"question": "What is one responsibility that is only for United States Citizens",
+        "answer": "Serve on a jury.\nVote in a federal election."},
+         {"question": "What are two rights of everyone living in the United States?",
+          "answer": "Freedom of expression, speech, assembly, worship, petition the government and the right to bear arms."
+         },
+         {"question": "What do we show loyalty to when we say the pledge of Allegiance?",
+          "answer": "The United States\nThe flag"},
+         {
+             "question": "Name one benefit of being a citizen of the United States",
+             "answer": "to obtain Federal Government jobs\nto travel with a U.S. passport\nto petition for close relatives to come to the U.S. to live"
+         }
+        ],
+    "Quiz 13": 
      [{"question:": "Who is the chief justice of the United States?",
        "answer": "John Roberts"},
       {
