@@ -21,7 +21,7 @@ var flashcards =
                      "answers": ["Provide schooling and education", "Provide protection (police)", "Provide safety (fire dept.)", "Give a driver's license", "Approve zoning and land use"]}},
          {"question": "Name the highest part of the Judiciary Branch of government.",
           "answer": "The Supreme Court"},
-         {"question": "What is the name of the President’s official home?",
+         {"question": "What is the name of the President's official home?",
           "answer": "The White House"},
          {"question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
           "answer": {"type": "subset",
