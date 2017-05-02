@@ -1,5 +1,37 @@
-var flashcards = 
+var flashcards =
     {
+        "Quiz 16":
+        [
+            {"question": "What territory did the United States buy from France in 1803?",
+             "answer": "The Louisiana Territory"},
+            {"question": "What were Lewis and Clark searching for?",
+             "answer": "A water way between the Atlantic and Pacific Oceans"},
+            {"question": "Name one war fought by the United States in the 1800s.",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["War of 1812", "Mexican-American War", "Spanish-American War", "Civil War"]}},
+            {"question": "Name the U.S. war between the North and the South. ",
+             "answer": "The Civil War"},
+            {"question": "Name one problem that led to the Civil War.",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["Slavery", "economic reasons", "states’ rights"]}},
+            {"question": "What was one important thing that Abraham Lincoln did?",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["Freed the slaves", "saved the Union", "Led the U.S. during the Civil War"]}},
+            {"question": "What did the Emancipation Proclamation do?",
+             "answer": "Freed slaves in the Confederate States"},
+            {"question": "What did Susan B. Anthony do?",
+             "answer": "Fought for women’s and civil rights"},
+            {"question": "What were the names of the armies that fought in the Civil War?",
+             "answer": {"type": "multi-part",
+                        "answers": ["The Union", "the Confederacy"]}},
+            {"question": "Name one American Indian tribe in the United States.",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["Cherokee", "Navajo", "Sioux", "Chippewa", "Choctaw", "Pueblo", "Apache", "Iroquois", "Creek", "Blackfeet", "Seminole", "Cheyenne", "Arawak", "Shawnee", "Mohegan", "Huron", "Oneida", "Lakota", "Crow", "Teton", "Hopi", "Inuit"]}}
+        ],
         "Quiz 15":
         [{"question": "What is one promise you make when you become a United States citizen?",
           "answer": {"type": "subset",
@@ -23,7 +55,7 @@ var flashcards =
           "answer": {"type": "multi-part",
                      "answers": ["Democratic", "Republican"]}}
           ],
-          "Test 10": 
+          "Test 10":
           [{"question": "Who is the Governor of your state now?",
             "answer": "Gary Herbert"},
            {"question": "What are some of the requirements to be eligible to become President?",
@@ -34,7 +66,7 @@ var flashcards =
            {"question": "How many justices are on the Supreme Court?",
             "answer": "Nine"},
            {"question": "What are the two major political parties in the United States?",
-            "answer": {"type": "multi-part", 
+            "answer": {"type": "multi-part",
                        "answers": ["Democratic", "Republican"]}},
            {"question": "Who is the Chief Justice of the United States now?",
             "answer": "John Roberts"},
@@ -125,8 +157,8 @@ var flashcards =
            {"question": "Under our Constitution some powers belong to the Federal Government.  What is one power of the federal government?",
             "answer": {"type": "subset",
                        "size": 1,
-                       "answers": ["To print money", 
-                                   "To declare wars", 
+                       "answers": ["To print money",
+                                   "To declare wars",
                                    "To create an army",
                                    "To make treaties"]}},
            {"question": "Under our Constitution some powers belong to the states.  What is one power of the states?",
@@ -151,7 +183,7 @@ var flashcards =
                "question": "What are two rights of everyone living in the United States?",
                "answer": {"type": "subset",
                           "size": 2,
-                          "answers": ["freedom of expression", 
+                          "answers": ["freedom of expression",
                                       "freedom of speech",
                                       "freedom of assembly",
                                       "freedom of worship",
@@ -202,7 +234,7 @@ var flashcards =
                "answer": "Paul Ryan"
            }
           ],
-        
+
         "Quiz 14":
         [{"question": "There are 4 amendments to the Constitution about who can vote.  Name one of them.",
          "answer": "Citizens 18 and older can vote.\nAny citizen (male or female) can vote.\nYou don't have to pay to vote.\nA citizen of any race may vote."},
@@ -220,7 +252,7 @@ var flashcards =
              "answer": "to obtain Federal Government jobs\nto travel with a U.S. passport\nto petition for close relatives to come to the U.S. to live"
          }
         ],
-    "Quiz 13": 
+    "Quiz 13":
      [{"question:": "Who is the chief justice of the United States?",
        "answer": "John Roberts"},
       {
@@ -235,7 +267,7 @@ var flashcards =
       },
       {
           "question": "Who is the governor of your state now?",
-          "answer": "Gary Herbert"          
+          "answer": "Gary Herbert"
       },
       {
           "question": "What is the capital of your state?",
