@@ -15,7 +15,7 @@ var flashcards =
             {"question": "Name one problem that led to the Civil War.",
              "answer": {"type": "subset",
                         "size": 1,
-                        "answers": ["Slavery", "economic reasons", "states’ rights"]}},
+                        "answers": ["Slavery", "economic reasons", "states' rights"]}},
             {"question": "What was one important thing that Abraham Lincoln did?",
              "answer": {"type": "subset",
                         "size": 1,
