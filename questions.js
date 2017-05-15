@@ -1,5 +1,33 @@
 var flashcards =
     {
+"Quiz 17":
+        [
+            {"question": "Name one war fought by the United States in the 1900s.",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["World War I", "World War II", "Korean War", "Vietnam War", "Persian Gulf War"]}},
+            {"question": "Who was President during World War I?",
+             "answer": "Woodrow Wilson"},
+            {"question": "Who was President during the Great Depression and World War II? ",
+             "answer": "Franklin Delano Roosevelt"},
+            {"question": "Who did the United States fight in World War II?",
+             "answer": {"type": "mutlipart",
+                        "answers": ["Japan", "Germany", "Italy"]}},
+            {"question": "Before he was President, Eisenhower was a general. What war was he in?",
+             "answer": "World War 2"},
+            {"question": "Name one purpose of the United Nations.",
+             "answer": {"type": "subset",
+                        "size": 1,
+                        "answers": ["For countries to discuss and try to resolve world problems", "To provide economic aid to many countries"]}},
+            {"question": "During the Cold War, what was the main concern of the United States?",
+             "answer": "Communism"},
+            {"question": "What movement tried to end racial discrimination?",
+             "answer": "The Civil Rights Movement"},
+            {"question": "What did Martin Luther King, Jr. do?",
+             "answer": "Fought for civil rights and equality for all Americans"},
+            {"question": "What major event happened on September 11, 2001, in the United States?",
+             "answer": "Terrorists attacked the United States"}
+        ],
         "Test 11": 
         [
             {"question": "What were Lewis and Clark searching for?",
